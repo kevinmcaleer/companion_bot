@@ -69,4 +69,4 @@ def write_file(faces, image, filename):
 
 while True or KeyboardInterrupt:
     faces, image = detect_faces()
-    write_file(faces, image, filaneme='result.jpg')
+    # write_file(faces, image, filaneme='result.jpg')
